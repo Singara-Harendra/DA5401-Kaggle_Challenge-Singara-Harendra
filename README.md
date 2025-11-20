@@ -63,7 +63,7 @@ Saved as `feature_matrix.npy`.
 
 ---
 
-## 🧪 EDA (No Visualizations)
+## 🧪 EDA 
 - Scores range **0–10**, but **majority lie in 8–10**.
 - **Low-score samples (<5) are scarce**, and 0–2 almost absent.
 - Heavy class imbalance → required augmentation.
